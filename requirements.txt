@@ -1,0 +1,13 @@
+1. Required libraries and their purpose.
+# Web application framework for building the dashboard UI, layout, and sidebar
+streamlit>=1.28.0
+# Data manipulation library for loading CSVs, filtering dates, and calculating statistics
+pandas>=2.0.0
+# Numerical computing library for array operations and BMI calculations
+numpy>=1.24.0
+# Interactive data visualization library for rendering line, bar, area, gauge, and donut charts
+plotly>=5.15.0
+
+2. To Check & Verify All Installed Libraries.
+python -c "import streamlit as st, pandas as pd, numpy as np, plotly as px; 
+print(f'ALL INSTALLED SUCCESSFULLY:\n- Streamlit: {st.__version__}\n- Pandas: {pd.__version__}\n- NumPy: {np.__version__}\n- Plotly: {px.__version__}')"
