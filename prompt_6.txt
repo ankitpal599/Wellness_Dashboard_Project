@@ -1,0 +1,17 @@
+PROMPT LOG 6: UI ENHANCEMENT
+
+User Query / Request:
+Act as a professional Python developer, Streamlit UI/UX designer, and data visualization expert.
+Transform my existing application into a modern, premium, professional wellness analytics platform.
+
+REQUIREMENTS:
+1. DESIGN THEME: Use a consistent premium palette (#F4F8F6 background, #FFFFFF cards, #064E3B primary green, #21866D emerald, #83D6B8 mint, #83C9C8 teal, #DDF2EA light mint). Use modern typography (Inter/DM Sans), rounded cards, and subtle shadows.
+2. PREMIUM DASHBOARD HEADER: Welcome message, dynamic header date badge, profile shortcut.
+3. MODERN SIDEBAR: Interactive navigation menu with icons and health profile preview.
+4. PERSONAL HEALTH PROFILE: Add a collapsible profile in sidebar (Emily Park, Age 21, Height 168 cm, Weight 58 kg, Blood Group A+, automatic BMI calculation). Provide Edit/Save buttons and persist profile locally via JSON (`user_profile.json`).
+5. KPI CARDS: 4 executive cards (Avg Steps, Avg Calories, Avg Sleep, Avg Heart Rate) with custom HTML styling.
+6. INTERACTIVE PLOTLY CHARTS: Modules for Physical Activity, Sleep Analysis, Heart Health, Mental Wellness, and Lifestyle.
+7. SETTINGS PAGE: Theme customization switcher (Sage Green, Ocean Teal, Lavender, Dark Forest Green) and reset options (Reset Theme, Reset Profile, Reset Preferences, Reset Filters).
+8. TECHNICAL REQUIREMENTS: Python, Streamlit, Pandas, NumPy, Plotly, JSON.
+
+Provide the complete updated working code for app.py.

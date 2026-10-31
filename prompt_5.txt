@@ -1,0 +1,39 @@
+PROMPT LOG 5: DASHBOARD DEVELOPMENT
+
+User Query / Request:
+"Now develop the complete Personal Wellness Dashboard using Python and Streamlit.
+
+Use my previously analyzed dataset: PJ2_Emily_Park_wellness_2025.csv
+
+TECHNOLOGIES:
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Plotly
+
+Create the complete app.py file.
+
+DASHBOARD MODULES:
+1. OVERVIEW (Daily steps, sleep, heart rate, exercise, water intake, mood, total records)
+2. PHYSICAL ACTIVITY (Daily steps trend, distance, calories, exercise duration, activity breakdown)
+3. SLEEP ANALYSIS (Sleep duration, sleep quality, sleep trends, pattern visualization)
+4. HEART & RECOVERY (Heart rate analysis, resting heart rate, HRV analysis)
+5. HYDRATION (Daily water intake, average water consumption, hydration trends)
+6. MOOD & STRESS (Mood distribution, stress trends, mood vs stress scatter)
+7. DATA ANALYSIS (Descriptive statistics, correlation heatmap, missing values, filtered CSV download)
+
+FUNCTIONALITY:
+- Date range filter.
+- Sidebar navigation.
+- Interactive Plotly charts.
+- CSV upload option.
+- Filtered dataset download.
+
+IMPORTANT REQUIREMENTS:
+- Use actual dataset columns.
+- Handle missing values properly.
+- Avoid hardcoding dataset results.
+- Write clean code with reusable functions and comments.
+
+Generate the complete app.py code.

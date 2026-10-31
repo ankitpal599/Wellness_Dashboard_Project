@@ -1,0 +1,14 @@
+PROMPT LOG 7: DEBUGGING
+
+User Query / Request:
+"Act as an experienced Python debugging expert.
+
+I encountered the following issue:
+'I want to change the data which is showing on the header in the dashboard to the data according to the dataset provided.'
+
+Analyze the error carefully:
+1. Identify the reason for the error.
+2. Explain why it occurred.
+3. Provide the corrected code.
+4. Replace it directly in the original app.py code.
+5. Ensure the correction does not break other dashboard modules."

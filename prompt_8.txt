@@ -1,0 +1,24 @@
+PROMPT LOG 8: DOCUMENTATION
+
+User Query / Request:
+"Create a professional README.md file for my college project.
+
+Project Title: Wellness Dashboard
+Technologies: Python, Streamlit, Pandas, NumPy, and Plotly.
+
+Include these sections:
+1. Project Title
+2. Project Introduction
+3. Problem Statement
+4. Project Objectives
+5. Technologies Used
+6. Dataset Description
+7. Dashboard Features
+8. Project Folder Structure
+9. Installation Instructions
+10. How to Run the Project (Running command: streamlit run app.py)
+11. Expected Output
+12. Future Scope
+13. Conclusion
+
+Keep the documentation professional and clear. Do not claim features that are not implemented. Provide complete README.md content."

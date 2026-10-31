@@ -1,0 +1,6 @@
+PROMPT LOG 3: LIBRARY SETUP
+
+User Query / Request:
+"Help me set up the required Python libraries for my Personal Wellness Dashboard.
+Specify the dependencies needed for data processing, analysis, web UI rendering, and interactive visualizations. 
+Generate the contents of `requirements.txt` (Streamlit, Pandas, NumPy, Plotly) and explain how to install them using pip in the VS Code integrated terminal."

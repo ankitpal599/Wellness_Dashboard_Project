@@ -1,0 +1,31 @@
+PROMPT LOG 4: UI DESIGN
+
+User Query / Request:
+"Act as a professional UI designer specializing in Streamlit dashboards.
+Design a modern and premium interface for Emily Park Wellness Dashboard.
+
+Design requirements:
+1. Professional wellness-inspired theme.
+2. Deep Forest Green — Primary headings and buttons.
+   Emerald Green — Important metrics and highlights.
+   Mint Green — Charts, progress bars and indicators.
+   Soft Teal — Secondary charts and visual elements.
+   White + Light Mint — Background and cards.
+3. Modern sidebar navigation.
+4. Attractive KPI cards.
+5. Rounded containers.
+6. Clean typography.
+7. Proper spacing and alignment.
+8. Responsive layout.
+9. Interactive chart areas.
+10. Professional dashboard header.
+11. For overview dashboard use line, area, bar, and smooth line chart; for dedicated modules use donut, bar, line, and circular progress charts.
+
+Dashboard title:
+Emily Park Wellness Dashboard
+
+Subtitle:
+Your Daily Health, Activity and Lifestyle Insights.
+
+Make the interface visually attractive and suitable for a college project presentation.
+First explain the proposed layout and design. Do not generate the complete application code yet.

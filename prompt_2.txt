@@ -1,0 +1,32 @@
+PROMPT LOG 2: PROJECT STRUCTURE
+
+User Query / Request:
+"Based on the dataset analysis, help me organize Emily Parker Wellness Dashboard project.
+
+I am using:
+- Python
+- VS Code
+- Streamlit
+- Pandas
+- NumPy
+- Plotly
+
+Create this project folder structure:
+Wellness_Dashboard/
+│
+├── app.py
+├── PJ2_Emily_Park_wellness_2025.csv
+├── requirements.txt
+├── README.md
+│
+├── prompt_logs/
+├── outputs/
+
+
+Explain:
+1. The purpose of every file and folder.
+2. How to create them in VS Code.
+3. Where to place my CSV dataset.
+4. Which files are essential and which are optional.
+
+Keep the structure simple and suitable for a beginner college project.

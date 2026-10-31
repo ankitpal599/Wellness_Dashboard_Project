@@ -1,0 +1,24 @@
+PROMPT LOG 1: DATASET ANALYSIS
+
+User Query / Request:
+"I am developing a college project titled 'Personal Wellness Dashboard' using Python.
+I have uploaded my dataset: PJ2_Emily_Park_wellness_2025.csv
+Before starting development, carefully analyze this dataset.
+
+Perform the following tasks:
+1. Display all column names.
+2. Identify the data types of each column.
+3. Calculate the total number of rows and columns.
+4. Identify missing and duplicate values.
+5. Understand what each column represents.
+6. Identify numerical and categorical columns.
+7. Suggest meaningful KPIs for a wellness dashboard.
+8. Suggest suitable charts and visualizations for each category.
+9. Identify possible relationships between different wellness metrics.
+
+IMPORTANT:
+Use only the actual uploaded dataset.
+Do not create fake data.
+Do not assume column names.
+Explain the analysis in beginner-friendly language.
+Do not generate Python dashboard code yet. First complete the dataset analysis."
