@@ -1,3 +1,6 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wellnessdashboardproject-7spdbvdwlyy9eptultg3dc.streamlit.app)
+Live Interactive Demo: [Click Here to View Dashboard](https://wellnessdashboardproject-7spdbvdwlyy9eptultg3dc.streamlit.app)
+
 # Personal Wellness Dashboard
 A modern, interactive, and data-driven personal wellness analytics platform built using Python and Streamlit. This application processes wearable fitness telemetry data to provide holistic insights into daily physical activity, sleep quality, cardiovascular health, mental stress, and hydration patterns.
 
