@@ -127,3 +127,9 @@ Wellness_Dashboard/
 * Real-time API Integration: Connect to commercial smartwatch APIs (e.g., Apple HealthKit, Fitbit API, Garmin Connect) for real-time live data syncing.
 * Multi-User Authentication: Implement secure login functionality with database integration (e.g., SQLite or PostgreSQL) to manage multiple user profiles.
 * Automated PDF Health Report Generation: Allow users to export weekly or monthly summarized health PDF reports directly from the dashboard.
+  
+# Note:
+# Install dependencies
+pip install -r requirements.txt
+# Run Streamlit dashboard
+streamlit run app.py
